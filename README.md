@@ -19,7 +19,7 @@ O projeto utiliza o Laravel 9, juntamente com o PHP 8 e o composer, como framewo
 - Instale o PHP 8
 - Instale o Composer
 - Copie e cole o arquivo .env.exemple como .env e configure o banco de dados "livraria" assim como o username e password do seu MySQL
-- No terminal entre na pasta "api-laravel" 
+- No terminal entre na pasta "livraria-api-laravel" 
 - Execute o comando: "composer install" para que as dependencias da API sejam instaladas
 - Execute o comando: "php artisan migrate" para que a tabelas do banco de dados sejam criadas
 - Execute o comando "php artisan serve" para que o servidor do Laravel seja carregado
